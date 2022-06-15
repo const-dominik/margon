@@ -21,12 +21,7 @@ const hammer = async (logpass, nick) => {
 }
 
 const hammers = {
-    "Alright": ["camownxd", "fizykafizyka123"],
-    "Bealright": ["zawacki321", "zawacki321"],
-    "Bugha": ["x98789", "biuret262"],
-    "Rust Cohle": ["szczencik", "nyras23"],
-    "True Detective": ["zawacki12345", "zawacki12345"],
-    "Zawada": ["zawacek", "zawacek"]
+    //nothing to see here!
 }
 
 for (const [nick, passy] of Object.entries(hammers)) {
